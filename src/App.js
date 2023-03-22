@@ -1,6 +1,11 @@
+import React from "react"
+import ButtonAppBar from "./Navbar"
 
 function App() {
-  return <div>hello</div>
+  <div>
+  <div>hello</div>
+  <ButtonAppBar />
+  </div>
 }
 
 
