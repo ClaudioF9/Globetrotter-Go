@@ -30,7 +30,7 @@
     
     
       return (
-        <AppBar position="static">
+        <AppBar position="static"sx={{ backgroundColor: '#B4B8BF' }}>
           <Container maxWidth="xl">
             <Toolbar disableGutters>
               <Typography
@@ -41,7 +41,7 @@
                 sx={{
                   mr: 2,
                   display: { xs: 'none', md: 'flex' },
-                  fontFamily: 'monospace',
+                  fontFamily: 'Helvetica-Oblique',
                   fontWeight: 700,
                   letterSpacing: '.3rem',
                   color: 'inherit',
