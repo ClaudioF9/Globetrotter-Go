@@ -1,11 +1,15 @@
-import React from "react"
-import ButtonAppBar from "./Navbar"
+import React from "react";
+import ButtonAppBar from "./Navbar";
+import ColumnsGrid from "./About"
 
 function App() {
+  return (
   <div>
-  <div>hello</div>
   <ButtonAppBar />
+  <ColumnsGrid />
+
   </div>
+  )
 }
 
 
