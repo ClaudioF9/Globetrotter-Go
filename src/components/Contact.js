@@ -7,7 +7,7 @@ import {
   CardContent,
   TextField,
   Button,
-} from '@material-ui/core';
+} from '@mui/material';
 import travelBg from '../images/travel-bg.jpg';
 
 const useStyles = makeStyles((theme) => ({
@@ -55,53 +55,9 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 function Contact() {
-  const classes = useStyles();
-
   return (
-    <div className={classes.root} id="contact">
-    <div className={classes.contactContainer}>
-      <Typography component="h3" variant="h3" align="center" gutterBottom  className={classes.contactTitle}>
-        We would love to hear from you!
-      </Typography>
-      <Grid container spacing={12}>
-        <Grid item xs={12} md={12}>
-          <Card className={classes.contactFormCard}>
-            <CardContent>
-              <form className={classes.contactForm}>
-                <TextField
-                  label="Name"
-                  variant="outlined"
-                  className={classes.formField}
-                />
-                <TextField
-                  label="Email"
-                  variant="outlined"
-                  className={classes.formField}
-                />
-                <TextField
-                  label="What are you thinking?"
-                  variant="outlined"
-                  multiline
-                  rows={4}
-                  className={classes.formField}
-                />
-                <Button
-                  variant="contained"
-                  color="primary"
-                  size="large"
-                  className={classes.submitButton}
-                  style={{ backgroundColor: '#00AAF8', color: '#fff' }}
-                >
-                  Send
-                </Button>
-              </form>
-            </CardContent>
-          </Card>
-        </Grid>
-      </Grid>
-    </div>
-    </div>
+    <div></div>
   );
-}
+};
 
 export default Contact;
