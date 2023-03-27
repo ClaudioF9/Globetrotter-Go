@@ -1,8 +1,7 @@
 
 import React from "react";
-import ButtonAppBar from "./Navbar";
-import ColumnsGrid from "./About"
-
+import ButtonAppBar from "./components/Navbar";
+import ColumnsGrid from "./components/About"
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 
@@ -13,15 +12,13 @@ function App() {
   <div>
   <ButtonAppBar />
   <ColumnsGrid />
-
+  <Contact />
+  <Footer />
   </div>
   )
 }
 
-  <div className="App">
-    <Contact />
-    <Footer />
-  </div>
+
 
 
 export default App;
