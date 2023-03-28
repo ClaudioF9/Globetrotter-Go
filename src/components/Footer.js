@@ -12,7 +12,7 @@ const Footer = () => {
               <Link href="ButtonAppBar" color="inherit" sx={{ mr: 2 }}>
                 Home
               </Link>
-              <Link href="ColumnsGrid" color="inherit" sx={{ mr: 2 }}>
+              <Link href="#about" color="inherit" sx={{ mr: 2 }}>
                 About
               </Link>
               <Link href="#contact" color="inherit" sx={{ mr: 2 }}>
