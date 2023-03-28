@@ -9,7 +9,7 @@ const Footer = () => {
         <Grid container spacing={2}>
           <Grid item xs={12} sm={4}>
             <Typography variant="body2">
-              <Link href="ButtonAppBar" color="inherit" sx={{ mr: 2 }}>
+              <Link href="#home" color="inherit" sx={{ mr: 2 }}>
                 Home
               </Link>
               <Link href="#about" color="inherit" sx={{ mr: 2 }}>
