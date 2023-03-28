@@ -11,6 +11,7 @@ import travelBg from '../images/travel-bg.jpg';
 
 const Contact = () => {
   return (
+    <div id="contact">
     <Box
       sx={{
         py: 8,
@@ -66,6 +67,7 @@ const Contact = () => {
         </Grid>
       </Container>
     </Box>
+    </div>
   );
 };
 
