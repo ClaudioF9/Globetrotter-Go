@@ -1,6 +1,15 @@
+import React from "react";
+import SetDate from "./utils/set-date";
+
+
 
 function App() {
-  return <div>hello</div>
+
+  return (
+    <>
+      <SetDate />
+    </>
+  )
 }
 
 
