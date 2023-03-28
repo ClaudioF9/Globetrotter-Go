@@ -1,6 +1,15 @@
+import CompleteSearch from "./components/totalsearch/compsearch";
+
+
+
 
 function App() {
-  return <div>hello</div>
+  return ( 
+    <div>
+  <CompleteSearch />
+
+   </div>
+  )
 }
 
 
