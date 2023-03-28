@@ -19,7 +19,7 @@ const Contact = () => {
         backgroundSize: 'cover',
         height: '500px',
         backgroundPosition: 'center center'
-      }}
+      }} id="contact"
     >
       <Container maxWidth="md" style={{
         padding: '64px',
