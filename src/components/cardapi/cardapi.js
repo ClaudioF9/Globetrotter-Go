@@ -34,7 +34,7 @@ function FlightApi(props) {
     }).catch(function (error) {
       console.error(error);
     });
-  }, []);
+  }, [airportOne, airportTwo, valueOne, valueTwo]);
 
   if (!flightInfo) {
     return <div className='load'>Loading flight data...</div>;
