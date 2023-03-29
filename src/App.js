@@ -12,8 +12,8 @@ function App() {
     <div>
       <ButtonAppBar />
       <CompleteSearch />
-      <ColumnsGrid id="about" />
       <SetDate id="suggestions" />
+      <ColumnsGrid id="about" />
       <Gallery id="gallery" />
       <Contact id="contact" />
       <Footer id="footer" />
