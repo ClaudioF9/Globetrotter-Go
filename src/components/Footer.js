@@ -15,6 +15,9 @@ const Footer = () => {
               <Link href="#about" color="inherit" sx={{ mr: 2 }}>
                 About
               </Link>
+              <Link href="#gallery" color="inherit" sx={{ mr: 2 }}>
+                Gallery
+              </Link>
               <Link href="#contact" color="inherit" sx={{ mr: 2 }}>
                 Contact
               </Link>
