@@ -12,7 +12,7 @@
 * [Questions](#questions)
 
 ## Description
-GlobeTrotter Go is a one-page travel app that allows users to search for flights, compare prices, and discover new destinations. The app features a navbar that connects to four sections: About Us, Cheap Flights and Contact. Designed to make travel planning more accessible and enjoyable than ever before, GlobeTrotter Go is the perfect companion for your next adventure.
+GlobeTrotter Go is a one-page travel app that allows users to search for flights, compare prices, and discover new destinations. The app features a navbar that connects to three sections: About Us, Cheap Flights and Contact. Designed to make travel planning more accessible and enjoyable than ever before, GlobeTrotter Go is the perfect companion for your next adventure.
 
 ## Installation
 To start using GlobeTrotter Go, simply visit our website and begin exploring the different sections available. No additional installation is required, as the app is designed to run smoothly on both desktop and mobile devices.
