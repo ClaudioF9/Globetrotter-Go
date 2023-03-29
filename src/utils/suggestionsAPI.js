@@ -36,11 +36,11 @@ function FlightSuggestions(props) {
 
         // Claudio key:
         // 'X-RapidAPI-Key': 'f8bea1bbb1msh0f0fb2365bb7e6cp156bacjsn02ebc2142b44',
-        'X-RapidAPI-Host': 'ryanair-all-api.p.rapidapi.com'
+        //'X-RapidAPI-Host': 'ryanair-all-api.p.rapidapi.com'
         
         // Claudio key 2:
-        // 'X-RapidAPI-Key': '8b185157dfmshfda0dec136e9414p1ab5b0jsn6823246d01ec',
-        // 'X-RapidAPI-Host': 'ryanair-all-api.p.rapidapi.com'
+        'X-RapidAPI-Key': '8b185157dfmshfda0dec136e9414p1ab5b0jsn6823246d01ec',
+        'X-RapidAPI-Host': 'ryanair-all-api.p.rapidapi.com'
 
         // Morgan key:
         // 'X-RapidAPI-Key': 'f52fefffa7msh4adaf3573b9c473p12a90djsn801350d39fda',
