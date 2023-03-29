@@ -18,8 +18,9 @@ GlobeTrotter Go is a one-page travel app that allows users to search for flights
 To start using GlobeTrotter Go, simply visit our website and begin exploring the different sections available. No additional installation is required, as the app is designed to run smoothly on both desktop and mobile devices.
 
 ## Usage
+Search: Input your travel preferences and desired dates to receive a list of suggested destinations based on your current flight deals. 
 About Us: Learn about GlobeTrotter Go's mission and the team behind this travel app.
-Cheap flights: Input your travel preferences and desired dates to receive a list of suggested destinations based on your interests, budget, and current flight deals. 
+Cheap flights: Receive the the latest cheap flight deals in the near future.
 Contact: Reach out to our customer support team for assistance, or connect with us on social media for the latest updates and travel inspiration.
 
 ## License
