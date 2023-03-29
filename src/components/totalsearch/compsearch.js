@@ -149,7 +149,6 @@ const airlonDetails = [
     { airport: 'Tolouse, France', code: "TLS" },
     { airport: 'Eindhoven, Netherlands', code: "EIN" },
     { airport: 'Edinburgh, Scotland', code: "EDI" },
-    { airport: 'Venice, Italy', code: "TSF" },
     { airport: 'Berlin, Germany', code: "BER" },
     { airport: 'Frankfurt, Germany', code: "HHN" },
     { airport: 'Rome, Italy', code: "CIA" },
