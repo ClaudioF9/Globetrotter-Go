@@ -14,7 +14,7 @@ function App() {
       <CompleteSearch />
       <SetDate id="suggestions" />
       <ColumnsGrid id="about" />
-      <Suggestions id="suggestions" />
+      <Suggestions id="Suggestions" />
       <Contact id="contact" />
       <Footer id="footer" />
     </div>
