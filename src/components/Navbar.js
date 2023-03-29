@@ -39,7 +39,7 @@
       
     
       return (
-        <AppBar position="static"sx={{ backgroundColor: '#B4B8BF' }}>
+        <AppBar position="static"sx={{ backgroundColor: '#222' }}>
           <Container maxWidth="xl">
             <Toolbar disableGutters>
               <Typography
