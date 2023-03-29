@@ -55,7 +55,7 @@ function FlightCard({ flightInfo }) {
     <div className="divvy1">
     <div className="grid-wrapper">
           <div className="headtext">Departure Flights</div>
-    <Grid container spacing={0} columnSpacing={0} className="gridFormat">
+    <Grid container spacing={0} columnSpacing={2} className="gridFormat">
       {flightInfo.origin_to_destination_trip.map((flightArray) =>
         flightArray.map((flightObj) => (
           <Grid item key={flightObj.flight_number} xs={12} sm={6} md={3}>
@@ -85,7 +85,7 @@ function FlightCard({ flightInfo }) {
     <div className="divvy2">
     <div className="grid-wrapper">
     <div className="headtext">Return Flights</div>
-    <Grid container spacing={0} columnSpacing={0} className="gridFormat">
+    <Grid container spacing={0} columnSpacing={2} className="gridFormat">
       {flightInfo.destination_to_origin_trip.map((flightArray) =>
         flightArray.map((flightObj) => (
           <Grid item key={flightObj.flight_number} xs={12} sm={6} md={3}>
