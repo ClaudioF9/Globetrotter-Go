@@ -5,9 +5,7 @@
 
  .suggestDiv{
     display: flex;
-    justify-content: center;    
-    /* text-align: center; */
-    margin-top: 25px;
+    justify-content: center;        
     background-image: url("../../images/suggest-background.jpg");
     background-position: center center;
     background-size: cover;
