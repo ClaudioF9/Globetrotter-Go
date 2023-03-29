@@ -15,7 +15,6 @@
     const pages = [
       { name: 'About Us', id: 'about' },
       { name: 'Suggestions', id: 'suggestions' },
-      { name: 'Gallery', id: 'gallery' },
       { name: 'Contact', id: 'contact' },
     ];
 

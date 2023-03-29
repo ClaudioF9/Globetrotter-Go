@@ -1,7 +1,7 @@
 import React from "react";
 import ButtonAppBar from "./components/Navbar";
 import ColumnsGrid from "./components/About";
-import Gallery from './components/Gallery';
+import Suggestions from './components/Suggestions';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import CompleteSearch from "./components/totalsearch/compsearch";
@@ -14,7 +14,7 @@ function App() {
       <CompleteSearch />
       <SetDate id="suggestions" />
       <ColumnsGrid id="about" />
-      <Gallery id="gallery" />
+      <Suggestions id="suggestions" />
       <Contact id="contact" />
       <Footer id="footer" />
     </div>
