@@ -3,9 +3,6 @@ import Suggestions from "../pages/suggestions/suggestions";
 import axios from "axios";
 
 function FlightSuggestions(props) {
-  console.log(props.depDate);
-  console.log(props.depRetDate);
-  console.log(props.retDate);
   const [flightSuggestions, setFlightSuggestions] = useState(null);
  
 
