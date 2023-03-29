@@ -30,17 +30,28 @@ function FlightSuggestions(props) {
         // 'X-RapidAPI-Key': '92b828285cmsh8a1a18ad6eee67bp168fe4jsn0185c9562d9c',
         // 'X-RapidAPI-Host': 'ryanair-all-api.p.rapidapi.com'
 
-        // Josh key 3(Current):
-        'X-RapidAPI-Key': '731410f010msh39d9105c96df32ap106c22jsnf1560507dcdd',
-        'X-RapidAPI-Host': 'ryanair-all-api.p.rapidapi.com'
+        // Josh key 3(Used):
+        // 'X-RapidAPI-Key': '731410f010msh39d9105c96df32ap106c22jsnf1560507dcdd',
+        // 'X-RapidAPI-Host': 'ryanair-all-api.p.rapidapi.com'
 
         // Claudio key:
         // 'X-RapidAPI-Key': 'f8bea1bbb1msh0f0fb2365bb7e6cp156bacjsn02ebc2142b44',
-        // 'X-RapidAPI-Host': 'ryanair-all-api.p.rapidapi.com'
+        'X-RapidAPI-Host': 'ryanair-all-api.p.rapidapi.com'
         
         // Claudio key 2:
         // 'X-RapidAPI-Key': '8b185157dfmshfda0dec136e9414p1ab5b0jsn6823246d01ec',
         // 'X-RapidAPI-Host': 'ryanair-all-api.p.rapidapi.com'
+
+        // Morgan key:
+        // 'X-RapidAPI-Key': 'f52fefffa7msh4adaf3573b9c473p12a90djsn801350d39fda',
+        // 'X-RapidAPI-Host': 'ryanair-all-api.p.rapidapi.com'
+
+        // Metin key:
+        // 'X-RapidAPI-Key': '5eee59729amsh14ba8d2e0c49119p1e060fjsn0283d7f8a93c',
+        // 'X-RapidAPI-Host': 'ryanair-all-api.p.rapidapi.com'
+        
+        
+        
       }
     };
 
