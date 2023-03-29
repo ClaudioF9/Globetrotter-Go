@@ -7,7 +7,7 @@ function LocationCard(props) {
   console.log('Hello');
   console.log(props);
   return (
-    <Card className='cards'>      
+    <Card id='cards'>      
       <CardContent>
         <Typography gutterBottom variant="h5" component="div">
           {props.originCity}
