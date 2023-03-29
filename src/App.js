@@ -11,7 +11,7 @@ function App() {
     <div>
       <ButtonAppBar />
       <CompleteSearch />
-      <SetDate id="suggestions" />
+      <SetDate id="Cheap Flights" />
       <ColumnsGrid id="about" />      
       <Contact id="contact" />
       <Footer id="footer" />
