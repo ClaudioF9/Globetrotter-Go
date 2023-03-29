@@ -2,7 +2,7 @@ import React from 'react';
 
 const Suggestions = () => {
   return (
-    <div id="suggestions">
+    <div id="Cheap Flights">
       <h2>Suggestions</h2>
       {/* Add your Suggestions content here */}
     </div>
