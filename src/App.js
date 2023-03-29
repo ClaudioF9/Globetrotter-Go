@@ -1,11 +1,11 @@
 import React from "react";
 import ButtonAppBar from "./components/Navbar";
 import ColumnsGrid from "./components/About";
-import Suggestions from './components/Suggestions';
 import Gallery from './components/Gallery';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import CompleteSearch from "./components/totalsearch/compsearch";
+import SetDate from "./utils/set-date";
 
 function App() {
   return (
@@ -13,7 +13,7 @@ function App() {
       <ButtonAppBar />
       <CompleteSearch />
       <ColumnsGrid id="about" />
-      <Suggestions id="suggestions" />
+      <SetDate id="suggestions" />
       <Gallery id="gallery" />
       <Contact id="contact" />
       <Footer id="footer" />
