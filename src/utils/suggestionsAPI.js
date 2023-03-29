@@ -52,7 +52,7 @@ function FlightSuggestions(props) {
     }).catch(function (error) {
       console.error(error);
     });
-  }, []);
+  }, [props.depDate, props.depRetDate, props.retDate]);
 
   if (!flightSuggestions) return null;
 
