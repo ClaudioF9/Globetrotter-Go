@@ -7,7 +7,7 @@ function Suggestions({ cheapFlights }) {
     console.log(cheapFlights);
     // return
     return (
-        <div className='suggestDiv'>
+        <div className='suggestDiv' id='Cheap Flights'>
             <div>
                 <h1 className='title'>Cheap Flights</h1>
                 <div className='gridDiv'>
