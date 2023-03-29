@@ -9,7 +9,7 @@ function Suggestions({ cheapFlights }) {
     return (
         <div className='suggestDiv'>
             <div>
-                <h1 className='title'>Suggestions</h1>
+                <h1 className='title'>Cheap Flights</h1>
                 <div className='gridDiv'>
                     <Grid container /*spacing={2} columnSpacing={0}*/ className="suggestionsGrid">
                         {cheapFlights.fares.slice(0, 6).map((fare) => {

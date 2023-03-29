@@ -3,20 +3,29 @@
 
  */
 
+ .suggestDiv{
+    display: flex;
+    justify-content: center;    
+    /* text-align: center; */
+    margin-top: 25px;
+    background-image: url("../../images/suggest-background.jpg");
+    background-position: center center;
+    background-size: cover;
+    border: 3px black solid;
+}
+
+.suggestDiv h1{
+    justify-content: center;
+    font-family: sans-serif;
+    color: rgb(41, 9, 9);
+}
+
  .gridDiv{
     display: flex;
     justify-content: center;
     margin-top: 10px;
     /* background-image: url("../../images/bg3.jpg"); */    ;
     
-}
-
-.suggestDiv{
-    display: flex;
-    justify-content: center;    
-    background-image: url("../../images/suggest-background.jpg");
-    background-position: center center;
-    background-size: cover;
 }
 
 .suggestionsGrid{
@@ -35,10 +44,11 @@
 }
 
 .title{
-    margin: 20px;
+    margin: 20px;    
     display: flex;
     font-size: 40px;
     color: rgb(207, 241, 255);
+
 }
 
 .gridItem{
