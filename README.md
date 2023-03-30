@@ -6,6 +6,7 @@
 * [Description](#description)
 * [Installation](#installation)
 * [Usage](#usage)
+* [Screenshot](#screenshot)
 * [License](#license)
 * [Contributing](#contributing)
 * [Tests](#tests)
@@ -22,6 +23,9 @@ Search: Input your travel preferences and desired dates to receive a list of sug
 About Us: Learn about GlobeTrotter Go's mission and the team behind this travel app.
 Cheap flights: Receive the the latest cheap flight deals in the near future.
 Contact: Reach out to our customer support team for assistance, or connect with us on social media for the latest updates and travel inspiration.
+
+## Screenshot
+![screenshot-globetrotter-go-netlify-app](https://user-images.githubusercontent.com/119876939/228882461-d8421b99-c77d-4743-a2b8-58febdf91417.png)
 
 ## License
 This application is covered under the MIT license.
