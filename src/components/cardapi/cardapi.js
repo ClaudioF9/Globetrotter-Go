@@ -33,7 +33,6 @@ function FlightApi(props) {
       setFlightInfo(response.data);
     }).catch(function (error) {
       console.error(error);
-      alert("No flights to your destination, please select new destination")
     });
   }, [airportOne, airportTwo, valueOne, valueTwo]);
 
